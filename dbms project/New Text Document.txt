@@ -1,1 +1,0 @@
-https://github.com/DanielYu0864/Employee-Management-System/tree/master/SQL
